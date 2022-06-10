@@ -1,0 +1,7 @@
+It's some codes for "Hands on Debugging in C and C++" on UDEMY.
+How to compile them?
+gcc -g -Wall -Werror xxx.c -o xxx
+
+And ref my google doc. 
+
+
